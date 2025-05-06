@@ -11,6 +11,7 @@ plugins:
   csslint:
     enabled: true
   duplication:
+  //polo
     enabled: true
     config:
       languages:
